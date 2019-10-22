@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SampleApp1</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="empty_screen">We do not have anything\nhere right now. Please Retry</string>
+    <string name="btn_retry">Retry</string>
+
+    <string-array name="dogs_images">
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/airedale-terrier-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/akita-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/alaskan-malamute-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/aussie-bulldog-thumb.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/06/australian-shepherd-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/basset-hound-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/shutterstock_76839838-feature.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/bullmastiff-700x700-1.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/cane-corso-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/doberman-700x700.jpg</item>
+        <item>https://bowwowinsurance.com.au/wp-content/uploads/2018/10/chocolate-labradoodle-700x700.jpg</item>
+    </string-array>
+    <string-array name="dogs_titles">
+        <item>Airedale Terrier</item>
+        <item>Akita</item>
+        <item>Alaskan Malamute</item>
+        <item>Australian Bulldog</item>
+        <item>Australian Shepherd</item>
+        <item>Basset Hound</item>
+        <item>Bernese Mountain Dog</item>
+        <item>Bull Terrier</item>
+        <item>Cane Corso</item>
+        <item>Dobermann</item>
+        <item>Labradoodle</item>
+    </string-array>
+
+    <string-array name="dogs_info">
+    <item>The Airedale Terrier is the largest of all terrier breeds. The breed is tall and sturdy with a muscular body and covered in a thick, course coat of fur. </item>
+    <item>The Akita is distinctive large and powerful dog with an aloof attitude.  The Akita can be territorial and the dog is not usually welcoming of strangers.</item>
+    <item>The Alaskan Malamute is a large and muscular domesticated dog with a heavy fur coat and bounds of energy. The Malamute was originally put to use as a freight-carrying animal because of their endurance in cold climates.</item>
+    <item>The Australian Bulldog is essentially the English Bulldog, but bred for Australian conditions. Medium-sized and equipped with a muscular body and short coat.</item>
+    <item>The Australian Shepherd (also known as the Aussie) is loveable medium sized working dog with a huge amount of energy and drive.</item>
+    <item>The Basset Hound is a medium-sized domesticated dog with short, muscular legs and a pair of long drooping ears. Basset Hounds are very long in the body.</item>
+    <item>The Bernese Mountain Dog is a larger breed of dog with a tri-coloured thick double coat. This dog makes the ideal family pet as it has a great temperament and just loves to be around children and whatever else is happening.</item>
+    <item>The Bull Terrier is a stout and muscular dog, stubborn and independent in nature and very loyal to its owner. They belong to the terrier family.</item>
+    <item>The Cane Corso is of Italian origin; a medium to large-sized dog with a muscular, strong and athletic appearance, the distinguished Cane Corso is an ancient dog of Roman decent.</item>
+    <item>The Doberman Pinscher (usually referred to simply as “Doberman”) is a large, domestic dog named after its creator, Karl Friedrich Louis Dobermann.</item>
+    <item>he Labradoodle is a crossbreed or hybrid breed dog; a cross between the Labrador and the standard Poodle. </item>
+    </string-array>
+
+</resources>
